@@ -34,4 +34,4 @@ Key Highlights / Outcomes:
 6. Showcased how analytics can support inventory planning and operational optimization
 
 Screenshots and Demos:
-Dashboard Looks Like: (https://github.com/Riya025tak/Blinkit-PowerBI-Dashboard/blob/main/Blinkit%20image.png)
+Dashboard Looks Like: !(https://github.com/Riya025tak/Blinkit-PowerBI-Dashboard/blob/main/Blinkit%20image.png)
