@@ -29,10 +29,9 @@ Features & Analysis:
 Key Highlights / Outcomes:
 1. Built dynamic dashboards with slicers, drill-downs, and filters for easy stakeholder interaction
 2. Applied DAX measures for advanced KPI calculations and trend analysis
-
-
-Screenshots and Demos:
-Dashboard Looks Like: (https://github.com/Riya025tak/Blinkit-PowerBI-Dashboard/blob/main/Blinkit%20image.png)
 4. Enabled quick insights into high-performing products and underperforming categories
 5. Demonstrated strong business storytelling and visualization best practices
 6. Showcased how analytics can support inventory planning and operational optimization
+
+Screenshots and Demos:
+Dashboard Looks Like: (https://github.com/Riya025tak/Blinkit-PowerBI-Dashboard/blob/main/Blinkit%20image.png)
